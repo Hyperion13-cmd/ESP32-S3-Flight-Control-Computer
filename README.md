@@ -31,3 +31,4 @@ The system is built around the powerful **ESP32-S3** microcontroller, providing 
 ## 📁 Repository Structure
 * `\Hardware_Design`: Altium Designer Schematic (.SchDoc) and PCB Layout (.PcbDoc) files (WIP).
 * `\Datasheets`: Technical documentation for critical components (ADXL375, AP64500, E22-900M30S).
+* * `\Manufacturing`: Assembly files, BOM, and Gerbers used for the actual flight hardware production.
