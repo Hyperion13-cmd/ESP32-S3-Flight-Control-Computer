@@ -2,7 +2,11 @@
 Advanced Flight Control Computer for high-altitude rockets. Features ESP32-S3, ADXL375 High-G IMU, MPU9250, MS5611, and 1W LoRa E22-900M30S telemetry. Powered by AP64500 Sync-Buck. Currently in schematic/PCB design phase.
 # Advanced ESP32-S3 Flight Control Computer (Under Development)
 
-![UKB PCB 3D Render]([BURAYA ALTIUM 3D RENDER GÖRSELİNİN LİNKİNİ EKLE])
+<img width="949" height="690" alt="image" src="https://github.com/user-attachments/assets/3f6a5bcd-e271-4cf4-914a-7ab073bac249" />
+<img width="1090" height="774" alt="image" src="https://github.com/user-attachments/assets/f8bd7da9-01c5-4c58-9825-2d4b03a52331" />
+<img width="1105" height="812" alt="image" src="https://github.com/user-attachments/assets/abaa3640-6caa-4d80-9411-4a79678f81a9" />
+
+
 
 ## 📌 Project Overview
 This project represents a next-generation, custom-designed Flight Control Computer tailored for high-altitude and supersonic rocket competitions. Currently in the hardware design phase, this board is engineered from the ground up to handle extreme G-forces, provide ultra-long-range telemetry, and ensure fail-safe pyro deployments.
